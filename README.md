@@ -1,0 +1,4 @@
+aming.notice
+============
+
+jQuery notic
